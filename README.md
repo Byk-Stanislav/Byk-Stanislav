@@ -2,11 +2,10 @@ BYK STANISLAV / БЫК СТАНИСЛАВ
 
 ![Header](https://github.com/Byk-Stanislav/Byk-Stanislav/blob/main/assets/A_realistic_illustration_of_a_bull_working_on_data_analytics_using_Python_The_bull_is_dressed_in_a_sleek_business_suit_and_glasses_intently_focused_on_a_computer_screen_displaying_colorful_Python_code_and_intricate_.png)
 
-about me
+ABOUT ME / О СЕБЕ
 
 
-skills
-
+SKILLS / НАВЫКИ
 
 ![PYTHON](https://img.shields.io/badge/-PYTHON-090909?style=for-the-badge&logo=python)
 ![PANDAS](https://img.shields.io/badge/-PANDAS-090909?style=for-the-badge&logo=pandas)
@@ -16,11 +15,11 @@ skills
 ![GIT](https://img.shields.io/badge/-GIT-090909?style=for-the-badge&logo=tableau)
 
 
-follow me
+FOLLOW ME / Я НА СВЯЗИ
+
 [![TELEGRAM](https://img.shields.io/badge/-TELEGRAM-090909?style=for-the-badge&logo=telegram)](https://t.me/@BykStanislav)
 [![LINKEDIN](https://img.shields.io/badge/-LINKEDIN-090909?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/stanislav-byk-040a8b346/)
 [![GMAIL](https://img.shields.io/badge/-GMAIL-090909?style=for-the-badge&logo=GMAIL)](mailto:bykstanislav99@gmail.com)
-
 
 
  MY REFERENCE PROJECTS / МОИ ПРОЕКТЫ ДЛЯ ОЗНАКОМЛЕНИЯ
