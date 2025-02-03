@@ -17,13 +17,13 @@ skills
 
 
 follow me
-![TELEGRAM](https://img.shields.io/badge/-TELEGRAM-090909?style=for-the-badge&logo=telegram)
+[![TELEGRAM](https://img.shields.io/badge/-TELEGRAM-090909?style=for-the-badge&logo=telegram)](https://t.me/@BykStanislav)
 ![LINKEDIN](https://img.shields.io/badge/-LINKEDIN-090909?style=for-the-badge&logo=linkedin)
 !![GMAIL](https://img.shields.io/badge/-GMAIL-090909?style=for-the-badge&logo=GMAIL)
 
 
 
-REFERENCE PROJECTS / ПРОЕКТЫ ДЛЯ ОЗНАКОМЛЕНИЯ
+ MY REFERENCE PROJECTS / МОИ ПРОЕКТЫ ДЛЯ ОЗНАКОМЛЕНИЯ
 
 [![A/Btest](https://img.shields.io/badge/-A/B_test-090909?style=for-the-badge&logo=tableau)](https://github.com/Byk-Stanislav/A-B-test)
 [![review__of_the_A/Btest](https://img.shields.io/badge/-review_of_the_A/B_test-090909?style=for-the-badge&logo=tableau)](https://github.com/Byk-Stanislav/Review-of-the-A-B-test)
