@@ -23,10 +23,11 @@ follow me
 
 
 
-prodjects
+REFERENCE PROJECTS / ПРОЕКТЫ ДЛЯ ОЗНАКОМЛЕНИЯ
+
 [![A/Btest](https://img.shields.io/badge/-A/B_test-090909?style=for-the-badge&logo=tableau)](https://github.com/Byk-Stanislav/A-B-test)
-![review__of_the_A/Btest](https://img.shields.io/badge/-review_of_the_A/B_test-090909?style=for-the-badge&logo=tableau)
-![RETENTION](https://img.shields.io/badge/-retantion-090909?style=for-the-badge&logo=tableau)
+[![review__of_the_A/Btest](https://img.shields.io/badge/-review_of_the_A/B_test-090909?style=for-the-badge&logo=tableau)](https://github.com/Byk-Stanislav/Review-of-the-A-B-test)
+[![RETENTION](https://img.shields.io/badge/-retantion-090909?style=for-the-badge&logo=tableau)](https://github.com/Byk-Stanislav/Retention)
 
 
 
