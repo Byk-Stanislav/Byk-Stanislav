@@ -1,3 +1,5 @@
+BYK STANISLAV / БЫК СТАНИСЛАВ
+
 ![Header](https://github.com/Byk-Stanislav/Byk-Stanislav/blob/main/assets/A_realistic_illustration_of_a_bull_working_on_data_analytics_using_Python_The_bull_is_dressed_in_a_sleek_business_suit_and_glasses_intently_focused_on_a_computer_screen_displaying_colorful_Python_code_and_intricate_.png)
 
 about me
