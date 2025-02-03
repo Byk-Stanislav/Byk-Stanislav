@@ -17,6 +17,17 @@ skills
 
 
 follow me
+![TELEGRAM](https://img.shields.io/badge/-TELEGRAM-090909?style=for-the-badge&logo=telegram)
+![LINKEDIN](https://img.shields.io/badge/-LINKEDIN-090909?style=for-the-badge&logo=linkedin)
+!![GMAIL](https://img.shields.io/badge/-GMAIL-090909?style=for-the-badge&logo=GMAIL)
+
+
+
+prodjects
+![A/Btest](https://img.shields.io/badge/-A/B_test-090909?style=for-the-badge&logo=tableau)
+![review__of_the_A/Btest](https://img.shields.io/badge/-review_of_the_A/B_test-090909?style=for-the-badge&logo=tableau)
+![RETENTION](https://img.shields.io/badge/-retantion-090909?style=for-the-badge&logo=tableau)
+
 
 
 
