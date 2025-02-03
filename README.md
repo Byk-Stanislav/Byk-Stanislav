@@ -18,8 +18,8 @@ skills
 
 follow me
 [![TELEGRAM](https://img.shields.io/badge/-TELEGRAM-090909?style=for-the-badge&logo=telegram)](https://t.me/@BykStanislav)
-[![LINKEDIN](https://img.shields.io/badge/-LINKEDIN-090909?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/Stanislav_Byk)
-![GMAIL](https://img.shields.io/badge/-GMAIL-090909?style=for-the-badge&logo=GMAIL)
+[![LINKEDIN](https://img.shields.io/badge/-LINKEDIN-090909?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/stanislav-byk-040a8b346)
+[![GMAIL](https://img.shields.io/badge/-GMAIL-090909?style=for-the-badge&logo=GMAIL)](mailto:bykstanislav99@gmail.com)
 
 
 
