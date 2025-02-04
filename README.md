@@ -6,11 +6,18 @@ ABOUT ME / О СЕБЕ
 SKILLS / НАВЫКИ
 
 ![PYTHON](https://img.shields.io/badge/-PYTHON-090909?style=for-the-badge&logo=python)
+
 ![PANDAS](https://img.shields.io/badge/-PANDAS-090909?style=for-the-badge&logo=pandas)
+
 ![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=mysql)
+
 ![TABLEAU](https://img.shields.io/badge/-TABLEAU-090909?style=for-the-badge&logo=tableau)
+
 ![A/Btests](https://img.shields.io/badge/-A/B_tests-090909?style=for-the-badge&logo=tableau)
+
 ![GIT](https://img.shields.io/badge/-GIT-090909?style=for-the-badge&logo=tableau)
+
+![product metrics](https://img.shields.io/badge/-product_metrics-090909?style=for-the-badge&logo=tableau)
 
 
 FOLLOW ME / Я НА СВЯЗИ
