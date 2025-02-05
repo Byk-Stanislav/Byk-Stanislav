@@ -6,7 +6,9 @@
 
 <div align="left">
 
-I am a junior Data Analyst with a higher education in economics and I completed a Data Analyst course at KARPOV.COURSES. During my studies, I acquired skills in SQL, Git, Python and libraries such as Pandas and NumPy. My key skills include:👇
+I am a junior Data Analyst with a higher education in economics and I completed a Data Analyst course at KARPOV.COURSES. During my studies, I acquired skills in SQL, Git, Python and libraries such as Pandas and NumPy.  
+My projects for your review can be found at the links below👇  
+My key skills include:👇
 
 ⚡ Data analysis and visualization (including Tableau)  
 ⚡ Working with databases and SQL  
